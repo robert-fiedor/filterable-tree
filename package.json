@@ -1,0 +1,25 @@
+{
+  "name": "filterable-tree",
+  "version": "1.0.0",
+  "description": "lalala",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robert-fiedor/filterable-tree.git"
+  },
+  "keywords": [
+    "stuff"
+  ],
+  "author": "Robert <'tensampan-npm@yahoo.co.uk'>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/robert-fiedor/filterable-tree/issues"
+  },
+  "homepage": "https://github.com/robert-fiedor/filterable-tree#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
